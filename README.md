@@ -1,1 +1,1 @@
-### [Checkout the Blog Here](https://medium.com/@gudise.ashok/monkey-business-when-chaos-engineering-meets-spring-framework-for-resilience-6534b7b1372)
+### [Checkout the Blog Here](https://www.linkedin.com/posts/ashokgudise_monkey-business-when-chaos-engineering-meets-activity-7066773066067922945-5hSl?utm_source=share&utm_medium=member_desktop)
