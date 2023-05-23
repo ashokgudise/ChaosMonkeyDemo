@@ -1,1 +1,1 @@
-### [Checkout the Blog Here](https://github.com/ashokgudise/ChaosMonkeyDemo)
+### [Checkout the Blog Here](https://medium.com/@gudise.ashok/monkey-business-when-chaos-engineering-meets-spring-framework-for-resilience-6534b7b1372)
